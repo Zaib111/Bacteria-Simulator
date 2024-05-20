@@ -1,0 +1,20 @@
+$-----$
+REPORT:
+$-----$
+Time Period: 40 Minutes
+-----------------------
+Growth Rate of Klebsiella: 323%
+Growth Rate of Clostridium: 365%
+Growth Rate of Escherichia coli: 198%
+
+
+$-----$
+REPORT:
+$-----$
+Time Period: 40 Minutes
+-----------------------
+Growth Rate of Klebsiella: 255%
+Growth Rate of Clostridium: 259%
+Growth Rate of Escherichia coli: 294%
+
+
